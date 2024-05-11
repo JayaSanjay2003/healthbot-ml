@@ -3,6 +3,7 @@
 # import secrets
 # from flask import Flask, render_template, flash, redirect, url_for, session, logging, request, session
 # from flask_sqlalchemy import SQLAlchemy
+#
 
 # ALLOWED_EXTENSIONS = ['png', 'jpg', 'jpeg']
 # app = Flask(__name__)
